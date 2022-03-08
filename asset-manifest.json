@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/procedural-mesh-animation/static/css/main.a24df9e7.chunk.css",
-    "main.js": "/procedural-mesh-animation/static/js/main.eee8a3bc.chunk.js",
-    "main.js.map": "/procedural-mesh-animation/static/js/main.eee8a3bc.chunk.js.map",
-    "runtime-main.js": "/procedural-mesh-animation/static/js/runtime-main.7956a523.js",
-    "runtime-main.js.map": "/procedural-mesh-animation/static/js/runtime-main.7956a523.js.map",
-    "static/js/2.5f60db20.chunk.js": "/procedural-mesh-animation/static/js/2.5f60db20.chunk.js",
-    "static/js/2.5f60db20.chunk.js.map": "/procedural-mesh-animation/static/js/2.5f60db20.chunk.js.map",
-    "static/js/3.8f7ff958.chunk.js": "/procedural-mesh-animation/static/js/3.8f7ff958.chunk.js",
-    "static/js/3.8f7ff958.chunk.js.map": "/procedural-mesh-animation/static/js/3.8f7ff958.chunk.js.map",
-    "index.html": "/procedural-mesh-animation/index.html",
-    "static/css/main.a24df9e7.chunk.css.map": "/procedural-mesh-animation/static/css/main.a24df9e7.chunk.css.map",
-    "static/js/2.5f60db20.chunk.js.LICENSE.txt": "/procedural-mesh-animation/static/js/2.5f60db20.chunk.js.LICENSE.txt"
+    "main.css": "/lynch/static/css/main.906fc289.chunk.css",
+    "main.js": "/lynch/static/js/main.0d6ca849.chunk.js",
+    "main.js.map": "/lynch/static/js/main.0d6ca849.chunk.js.map",
+    "runtime-main.js": "/lynch/static/js/runtime-main.babd54b9.js",
+    "runtime-main.js.map": "/lynch/static/js/runtime-main.babd54b9.js.map",
+    "static/js/2.8b264f40.chunk.js": "/lynch/static/js/2.8b264f40.chunk.js",
+    "static/js/2.8b264f40.chunk.js.map": "/lynch/static/js/2.8b264f40.chunk.js.map",
+    "index.html": "/lynch/index.html",
+    "static/css/main.906fc289.chunk.css.map": "/lynch/static/css/main.906fc289.chunk.css.map",
+    "static/js/2.8b264f40.chunk.js.LICENSE.txt": "/lynch/static/js/2.8b264f40.chunk.js.LICENSE.txt",
+    "static/media/blog01.cefc0932.png": "/lynch/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/lynch/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/lynch/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/lynch/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/lynch/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo3.914bc7a6.png": "/lynch/static/media/logo3.914bc7a6.png",
+    "static/media/people.5cd2d6fb.png": "/lynch/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/lynch/static/media/possibility.525f13b6.png",
+    "static/media/spec.fdeef148.jpg": "/lynch/static/media/spec.fdeef148.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7956a523.js",
-    "static/js/2.5f60db20.chunk.js",
-    "static/css/main.a24df9e7.chunk.css",
-    "static/js/main.eee8a3bc.chunk.js"
+    "static/js/runtime-main.babd54b9.js",
+    "static/js/2.8b264f40.chunk.js",
+    "static/css/main.906fc289.chunk.css",
+    "static/js/main.0d6ca849.chunk.js"
   ]
 }
